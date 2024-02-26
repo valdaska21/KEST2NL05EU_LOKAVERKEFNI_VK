@@ -1,0 +1,2 @@
+9. Install and configure syslog server on server1, server1 should get logs from both the clients 
+for proactive management and monitoring.
