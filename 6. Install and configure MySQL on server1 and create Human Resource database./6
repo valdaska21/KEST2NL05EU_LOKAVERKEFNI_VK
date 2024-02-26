@@ -1,0 +1,7 @@
+6. Install and configure MySQL on server1 and create Human Resource database. The 
+database stores information about employees, employees are identified by their Kennitala, 
+Firstname, Lastname, Email, phone Number, hire date and salary. Employees work in 
+Departments where each department has one manager, departments are identified by 
+department ID, department name. Each department is in a different location. Locations are 
+identified by their location ID, city, Address, and zip code. One or more employees work on 
+different jobs, and the jobs are identified by Job ID, job title, Min salary and max salary.
