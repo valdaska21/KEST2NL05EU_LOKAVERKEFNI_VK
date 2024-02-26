@@ -12,4 +12,5 @@
 ## 3. Install and configure DHCP on server1, so both clients get an IP Addresses, Gateway, DNS, IP address and domain name automatically via HDCP.
 ![dhcpd_conf_server1.png](https://github.com/valdaska21/KEST2NL05EU_LOKAVERKEFNI_VK/blob/main/3.%20Install%20and%20configure%20DHCP%20on%20server1%2C%20so%20both%20clients%20get%20an%20IP%20Addresses%2C%20Gateway%2C%20DNS%20%20IP%20address%20and%20domain%20name%20automatically%20via%20HDCP./dhcpd_conf_server1.png)
 ![dhcp_status_server1.png](https://github.com/valdaska21/KEST2NL05EU_LOKAVERKEFNI_VK/blob/main/3.%20Install%20and%20configure%20DHCP%20on%20server1%2C%20so%20both%20clients%20get%20an%20IP%20Addresses%2C%20Gateway%2C%20DNS%20%20IP%20address%20and%20domain%20name%20automatically%20via%20HDCP./dhcpd_status_server1.png)
-[dhcpd.conf](https://github.com/valdaska21/KEST2NL05EU_LOKAVERKEFNI_VK/blob/main/3.%20Install%20and%20configure%20DHCP%20on%20server1%2C%20so%20both%20clients%20get%20an%20IP%20Addresses%2C%20Gateway%2C%20DNS%20%20IP%20address%20and%20domain%20name%20automatically%20via%20HDCP./dhcpd.conf)
+[dhcpd.conf](https://github.com/valdaska21/KEST2NL05EU_LOKAVERKEFNI_VK/blob/main/3.%20Install%20and%20configure%20DHCP%20on%20server1%2C%20so%20both%20clients%20get%20an%20IP%20Addresses%2C%20Gateway%2C%20DNS%20%20IP%20address%20and%20domain%20name%20automatically%20via%20HDCP./dhcpd.conf)  
+
