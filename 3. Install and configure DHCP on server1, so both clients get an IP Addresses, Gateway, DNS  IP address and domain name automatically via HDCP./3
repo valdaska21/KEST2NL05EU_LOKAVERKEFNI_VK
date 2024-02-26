@@ -1,0 +1,2 @@
+3. Install and configure DHCP on server1, so both clients get an IP Addresses, Gateway, DNS 
+IP address and domain name automatically via HDCP.
