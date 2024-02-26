@@ -22,3 +22,13 @@
 [named.conf.local](https://github.com/valdaska21/KEST2NL05EU_LOKAVERKEFNI_VK/blob/main/4.%20Install%20and%20configure%20DNS%20server%20on%20server1%2C%20so%20Hostnames%20are%20resolved%20to%20IP%20Addresses./named.conf.local)  
 
 ## 5. Create the users accounts using a script, see the Users file.
+![user_add_sh server1.png](https://github.com/valdaska21/KEST2NL05EU_LOKAVERKEFNI_VK/blob/main/5.%20Create%20the%20users%20accounts%20using%20a%20script%2C%20see%20the%20Users%20file./user_add_sh%20server1.png)  
+[useradd.sh](https://github.com/valdaska21/KEST2NL05EU_LOKAVERKEFNI_VK/blob/main/5.%20Create%20the%20users%20accounts%20using%20a%20script%2C%20see%20the%20Users%20file./useradd.sh)  
+![users_created_server1.png](https://github.com/valdaska21/KEST2NL05EU_LOKAVERKEFNI_VK/blob/main/5.%20Create%20the%20users%20accounts%20using%20a%20script%2C%20see%20the%20Users%20file./users_created_server1.png)  
+
+## 6. Install and configure MySQL on server1 and create Human Resource database.
+[hr_database.sql](https://github.com/valdaska21/KEST2NL05EU_LOKAVERKEFNI_VK/blob/main/6.%20Install%20and%20configure%20MySQL%20on%20server1%20and%20create%20Human%20Resource%20database./hr_database.sql)  
+![msql database status.png](https://github.com/valdaska21/KEST2NL05EU_LOKAVERKEFNI_VK/blob/main/6.%20Install%20and%20configure%20MySQL%20on%20server1%20and%20create%20Human%20Resource%20database./msql%20database%20status.png)  
+![msql database terminal.png](https://github.com/valdaska21/KEST2NL05EU_LOKAVERKEFNI_VK/blob/main/6.%20Install%20and%20configure%20MySQL%20on%20server1%20and%20create%20Human%20Resource%20database./msql%20database%20terminal.png)  
+
+## 
