@@ -1,4 +1,0 @@
-Screenshots:
-Create a folder named screenshots.
-Include screenshots for key steps or configurations.
-Label each screenshot appropriately.
