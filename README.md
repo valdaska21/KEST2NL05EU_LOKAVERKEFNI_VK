@@ -1,5 +1,9 @@
 # KEST2NL05EU_LOKAVERKEFNI_VK
 
+- server1 = ubuntu-22.04.4-live-server-amd64.iso = Ubuntu Server  
+- client1 = debian-12.5.0-amd64-netinst.iso = Debian  
+- client2 = rhel-9.3-x86_64-dvd.iso = Redhat Enterprise  
+
 ## 1. Install and configure the server1, client1 and client2 with hostnames and domain as ddp.is
 ![hostname and domain client1.png](https://github.com/valdaska21/KEST2NL05EU_LOKAVERKEFNI_VK/blob/main/1.%20Install%20and%20configure%20the%20server1%2C%20client1%20and%20client2%20with%20hostnames%20and%20domain%20as%20ddp.is/hostname%20client1.png)  
 ![hostname and domain client2.png](https://github.com/valdaska21/KEST2NL05EU_LOKAVERKEFNI_VK/blob/main/1.%20Install%20and%20configure%20the%20server1%2C%20client1%20and%20client2%20with%20hostnames%20and%20domain%20as%20ddp.is/hostname%20client2.png)  
