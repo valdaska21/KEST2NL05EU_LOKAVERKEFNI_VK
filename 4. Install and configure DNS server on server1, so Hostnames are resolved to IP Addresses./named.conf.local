@@ -1,0 +1,4 @@
+zone "ddp.is" {
+    type master;
+    file "/etc/bind/zones/ddp.is.db";
+};
