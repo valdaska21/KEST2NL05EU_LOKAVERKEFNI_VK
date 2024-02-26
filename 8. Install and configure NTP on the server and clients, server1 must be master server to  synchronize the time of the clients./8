@@ -1,0 +1,2 @@
+8. Install and configure NTP on the server and clients, server1 must be master server to 
+synchronize the time of the clients.
